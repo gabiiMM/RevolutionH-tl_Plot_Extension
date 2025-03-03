@@ -29,6 +29,9 @@ You can download the files from this repository.
    Create a Conda environment with R version 4.4.0 and activate it:
    ```bash
    conda create -n RevolutionHtl-r4.4 r-base=4.4.0 -c conda-forge
+   ```
+
+  ```bash
    conda activate RevolutionHtl-r4.4
    ```
 
