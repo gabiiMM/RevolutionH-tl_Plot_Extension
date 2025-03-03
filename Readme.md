@@ -30,8 +30,7 @@ You can download the files from this repository.
    ```bash
    conda create -n RevolutionHtl-r4.4 r-base=4.4.0 -c conda-forge
    ```
-
-  ```bash
+   ```bash
    conda activate RevolutionHtl-r4.4
    ```
 
