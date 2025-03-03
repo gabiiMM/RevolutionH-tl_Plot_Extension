@@ -49,7 +49,7 @@ You can download the files from this repository.
 4. **Install the RevolutionH-tl Package**  
    Install the RevolutionH-tl package from the .tar.gz file:
    ```bash
-   R CMD INSTALL RevolutionHtl_0.1.3.tar.gz
+   R CMD INSTALL RevolutionHtl_0.1.4.tar.gz
    ```
 
 5. **Load the RevolutionH-tl Library in R**  
