@@ -69,5 +69,5 @@ You can download the files from this repository.
 ## Notes  
 - `Ensure all file paths are correct when running the Plot_tree function.`
 
-## Plot
+## Visualization
 ![Species_tree_RevolutionH-tl](https://github.com/gabiiMM/RevolutionH-tl_Plot_Extension/blob/main/Species_tree_RevolutionH-tl.jpg)
