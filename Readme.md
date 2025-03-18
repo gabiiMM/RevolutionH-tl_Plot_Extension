@@ -70,4 +70,4 @@ You can download the files from this repository.
 - `Ensure all file paths are correct when running the Plot_tree function.`
 
 ## Plot
-![Species_tree_RevolutionH-tl]([https://github.com/user-attachments/assets/1c55f90e-f1cb-4a37-ae13-90c88868519c](https://github.com/gabiiMM/RevolutionH-tl_Plot_Extension/blob/main/Species_tree_RevolutionH-tl.jpg))
+![Species_tree_RevolutionH-tl](https://github.com/gabiiMM/RevolutionH-tl_Plot_Extension/blob/main/Species_tree_RevolutionH-tl.jpg)
