@@ -41,9 +41,9 @@ You can download the files from this repository.
    ```
 
 3. **Install Required R Libraries**  
-   Run the Module_1.R script to install the required R libraries:
+   Run the R_packages.R script to install the required R libraries:
    ```bash
-   Rscript Module_1.R
+   Rscript R_packages.R
    ```
 
 4. **Install the RevolutionH-tl Package**  
